@@ -1,16 +1,6 @@
-absl-py==0.10.0
-astor==0.8.1
-certifi==2020.6.20
-click==8.0.3
-colorama==0.4.4
-cycler==0.10.0
-dataclasses==0.8
 dlib==19.16.0
 Flask==2.0.2
 Flask-Cors==3.0.10
-gast==0.2.2
-google-pasta==0.2.0
-grpcio==1.32.0
 h5py==2.8.0
 importlib-metadata==2.0.0
 imutils==0.5.1
